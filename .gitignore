@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 /dist
-/config
+/src/config
 .pnp.js
 
 # testing
